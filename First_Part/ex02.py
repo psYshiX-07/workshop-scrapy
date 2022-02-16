@@ -24,7 +24,7 @@ if __name__ == "__main__":
     new.append(final)
 
     a = 0
-    b = 1
+    b = 0
     for a in range(lenght):
         b = 0
         for b in range(lenght):
